@@ -51,7 +51,7 @@ function insertarDatosTabla() {
     }
 
     $palabras = array(
-        array('pipi', 'pepa'),
+        array('mear', 'pis'),
         array('caca', 'popo'),
         array('teta', 'pechuga'),
         array('culo', 'pompis'),
